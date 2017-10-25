@@ -1,0 +1,7 @@
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\bin\AngularVisualStudioStarter.dll.config
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\bin\AngularVisualStudioStarter.dll
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\bin\AngularVisualStudioStarter.pdb
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\obj\Debug\AngularVisualStudioStarter.csprojResolveAssemblyReference.cache
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\obj\Debug\AngularVisualStudioStarter.csproj.CoreCompileInputs.cache
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\obj\Debug\AngularVisualStudioStarter.dll
+D:\Razvoj\angular-vs2013-starter-master\AngularVisualStudioStarter\obj\Debug\AngularVisualStudioStarter.pdb
